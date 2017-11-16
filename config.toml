@@ -8,6 +8,6 @@ compile_sass = true
 # Theme can be customised by setting the `highlight_theme` variable to a theme supported by Gutenberg
 highlight_code = true
 
-[extra]
-# Put all your custom variables here
-theme = "brut"
+theme = "brute"
+title = "alexander lozada"
+
