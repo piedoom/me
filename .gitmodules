@@ -1,0 +1,3 @@
+[submodule "themes/brute"]
+	path = themes/brute
+	url = https://github.com/piedoom/brute.git
